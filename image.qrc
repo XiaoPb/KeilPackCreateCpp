@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/checked-del.png</file>
+        <file>res/indeterminate.png</file>
+        <file>res/unchecked.png</file>
+        <file>res/c-file.png</file>
+        <file>res/dir.png</file>
+        <file>res/h-file.png</file>
+    </qresource>
+</RCC>
